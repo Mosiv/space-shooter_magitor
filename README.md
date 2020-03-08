@@ -3,7 +3,7 @@ This is a unity project
 
 ### Download App
 ### Download App
-<a href='https://play.google.com/store/apps/details?id=com.game.shooter.magitor'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="210" height="100"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.game.shooter.magitor'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="220" height="100"/></a>
 
 ## Screenshots
 <img src="screenshot/1.jpg" width="200" height="340">
