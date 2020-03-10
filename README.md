@@ -1,5 +1,6 @@
 # space-shooter_magitor
-This is a unity project (Android)
+(alpha)
+This is a Unity project (Android)
 
 ARM64, .NET4
 
